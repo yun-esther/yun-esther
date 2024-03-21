@@ -18,7 +18,7 @@
 
  
 
-  - [Qualys Vulnerability Management Detection and Response](vmdr cert.pdf) 
+  - [Qualys Vulnerability Management Detection and Response](https://github.com/yun-esther/yun-esther/blob/main/vmdr%20cert.pdf)
 
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
