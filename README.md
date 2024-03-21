@@ -18,7 +18,7 @@
 
  
 
-  - [Net+](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
+  - [Qualys Vulnerability Management Detection and Response](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
 
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
