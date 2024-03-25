@@ -7,6 +7,7 @@
 <h2>📜 Certifications:</h2> 
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/yun-esther/yun-esther/blob/main/vmdr%20cert.pdf)
+  - [Qualys Cloud Agent]()
 
 <h2> 🤳 Connect with me:</h2> 
 
