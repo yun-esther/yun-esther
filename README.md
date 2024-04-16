@@ -10,7 +10,7 @@
   - [Qualys Cloud Agent](https://github.com/yun-esther/yun-esther/blob/main/cloud%20agent%20cert.pdf)
   - [Qualys Patch Management](https://github.com/yun-esther/yun-esther/blob/main/Qualys%20PM%20Cert.pdf)
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/yun-esther/yun-esther/blob/main/CSAM%20cert.pdf)
-  - [Qualys Scanning Strategies and Best Practices](  )
+  - [Qualys Scanning Strategies and Best Practices](https://github.com/yun-esther/yun-esther/blob/main/Scanning%20cert.pdf)
 
 <h2> 🤳 Connect with me:</h2> 
 
