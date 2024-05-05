@@ -2,7 +2,7 @@
 
 <h2>🛡️ Information Security Projects</h2> 
 
- - [.......](Link)
+ - [Microsoft Azure Threat Intelligence](Link)
    
 <h2>📜 Certifications:</h2> 
 
