@@ -2,14 +2,14 @@
 
 <h2>🛡️ Information Security Projects</h2> 
 
- - [Microsoft Azure Threat Intelligence](Link)
+ - [Microsoft Azure Threat Intelligence - Honeypot & Sentinel SIEM](Link)
    
 <h2>📜 Certifications:</h2> 
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/yun-esther/yun-esther/blob/main/vmdr%20cert.pdf)
   - [Qualys Cloud Agent](https://github.com/yun-esther/yun-esther/blob/main/cloud%20agent%20cert.pdf)
   - [Qualys Patch Management](https://github.com/yun-esther/yun-esther/blob/main/Qualys%20PM%20Cert.pdf)
-  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/yun-esther/yun-esther/blob/main/CSAM%20cert.pdf)
+  - [Qualys CyberSecurity Asset Management](https://github.com/yun-esther/yun-esther/blob/main/CSAM%20cert.pdf)
   - [Qualys Scanning Strategies and Best Practices](https://github.com/yun-esther/yun-esther/blob/main/Scanning%20cert.pdf)
   - [Qualys Reporting Strategies and Best Practices](https://github.com/yun-esther/yun-esther/blob/main/reporting%20strategies%20cert.pdf)
   - [Qualys Policy Compliance](https://github.com/yun-esther/yun-esther/blob/main/QUalys%20Policy%20COmpliance%20cert.pdf)
