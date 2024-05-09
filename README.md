@@ -2,7 +2,7 @@
 
 <h2>🛡️ Information Security Projects</h2> 
 
- - [Microsoft Azure Threat Intelligence - Honeypot & Sentinel SIEM](Link)
+ - [Azure Honeypot & Sentinel SIEM](Link)
    
 <h2>📜 Certifications:</h2> 
 
