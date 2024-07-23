@@ -6,8 +6,8 @@
    
 <h2>📜 Certifications:</h2> 
 
-  - [CompTIA Network+](https://github.com/yun-esther/yun-esther/blob/main/cloud%20agent%20cert.pdf)
-  - [Fortinet Certified Associate Cybersecurity](https://github.com/yun-esther/yun-esther/blob/main/cloud%20agent%20cert.pdf)
+  - [CompTIA Network+](https://github.com/yun-esther/yun-esther/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
+  - [Fortinet Certified Associate Cybersecurity](https://github.com/yun-esther/yun-esther/blob/main/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
   - [Qualys Vulnerability Management Detection and Response](https://github.com/yun-esther/yun-esther/blob/main/vmdr%20cert.pdf)
   - [Qualys Cloud Agent](https://github.com/yun-esther/yun-esther/blob/main/cloud%20agent%20cert.pdf)
   - [Qualys Patch Management](https://github.com/yun-esther/yun-esther/blob/main/Qualys%20PM%20Cert.pdf)
