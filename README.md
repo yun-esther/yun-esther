@@ -2,7 +2,7 @@
 
 <h2>🛡️ Information Security Projects</h2> 
 
- - [Azure Honeypot & Sentinel SIEM](Link)
+ - [Azure Honeypot & Sentinel SIEM](https://github.com/yun-esther/Azure-Project)
    
 <h2>📜 Certifications:</h2> 
 
