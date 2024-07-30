@@ -15,6 +15,7 @@
   - [Qualys Scanning Strategies and Best Practices](https://github.com/yun-esther/yun-esther/blob/main/Scanning%20cert.pdf)
   - [Qualys Reporting Strategies and Best Practices](https://github.com/yun-esther/yun-esther/blob/main/reporting%20strategies%20cert.pdf)
   - [Qualys Policy Compliance](https://github.com/yun-esther/yun-esther/blob/main/QUalys%20Policy%20COmpliance%20cert.pdf)
+  - [Qualys Web Application Scanning](https://github.com/yun-esther/yun-esther/blob/main/QUalys%20Policy%20COmpliance%20cert.pdf)
 
 <h2> 🤳 Connect with me:</h2> 
 
